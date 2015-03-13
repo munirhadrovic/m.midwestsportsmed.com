@@ -99,7 +99,7 @@
 		    <h1><img src="img/logo2.png" alt="LOGO"></h1>
 		</div>
 		<div data-role="footer" data-theme="<?php echo $theme ?>" data-position="fixed">
-		    <h1>Mobile Site<a href="http://www.midwestsportsmed.com" rel="external">  Clasic Site</a></h1>
+		    <h1>Mobile Site<a href="http://www.midwestsportsmed.com" rel="external">  Classic Site</a></h1>
 		</div>
 		<!-- page 1 ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////-->
 		<div data-role="page" id="page1" data-theme="<?php echo $theme ?>">
@@ -195,14 +195,14 @@
 
 							<div data-role="collapsible" data-theme="<?php echo $theme ?>" data-content-theme="<?php echo $theme ?>" data-iconpos="right" data-collapsed-icon="arrow-r" data-expanded-icon="arrow-d">
 							   <h3>Physicians</h3>
-							   <a class="ui-btn ui-icon-info ui-btn-icon-left buttons-radius" href="#page2" data-transition="<?php echo $transitionefect ?>">Dr.Eugen Lopez,MD</a>
-							   <a class="ui-btn ui-icon-info ui-btn-icon-left buttons-radius" href="#page2" data-transition="<?php echo $transitionefect ?>">Dr.Mary Morrell,MD/a>
-							   <a class="ui-btn ui-icon-info ui-btn-icon-left buttons-radius" href="#page2" data-transition="<?php echo $transitionefect ?>">Dr Bruce Montella,MD</a>
-                                   <a class="ui-btn ui-icon-info ui-btn-icon-left buttons-radius" href="#page2" data-transition="<?php echo $transitionefect ?>">Dr.Sean Odell,MD</a>
-                                   <a class="ui-btn ui-icon-info ui-btn-icon-left buttons-radius" href="#page2" data-transition="<?php echo $transitionefect ?>">Dr.Mary Morrell,MD</a>
-                                       <a class="ui-btn ui-icon-info ui-btn-icon-left buttons-radius" href="#page2" data-transition="<?php echo $transitionefect ?>">Dr Erwin Friedman,MD</a>
-                                       <a class="ui-btn ui-icon-info ui-btn-icon-left buttons-radius" href="#page2" data-transition="<?php echo $transitionefect ?>">Kody Lewis,PA-C</a>
-                                       <a class="ui-btn ui-icon-info ui-btn-icon-left buttons-radius" href="#page2" data-transition="<?php echo $transitionefect ?>">Ross Roberts,PA-C</a>
+							   <a class="ui-btn ui-icon-info ui-btn-icon-left buttons-radius" href="#page2" data-transition="<?php echo $transitionefect ?>">Dr. Eugen Lopez, MD</a>
+							   <a class="ui-btn ui-icon-info ui-btn-icon-left buttons-radius" href="#page2" data-transition="<?php echo $transitionefect ?>">Dr. Mary Morrell, MD</a>
+							   <a class="ui-btn ui-icon-info ui-btn-icon-left buttons-radius" href="#page2" data-transition="<?php echo $transitionefect ?>">Dr. Bruce Montella, MD</a>
+                                   <a class="ui-btn ui-icon-info ui-btn-icon-left buttons-radius" href="#page2" data-transition="<?php echo $transitionefect ?>">Dr. Sean Odell, MD</a>
+                                   <a class="ui-btn ui-icon-info ui-btn-icon-left buttons-radius" href="#page2" data-transition="<?php echo $transitionefect ?>">Dr. Mary Morrell, MD</a>
+                                       <a class="ui-btn ui-icon-info ui-btn-icon-left buttons-radius" href="#page2" data-transition="<?php echo $transitionefect ?>">Dr. Erwin Friedman, DPM</a>
+                                       <a class="ui-btn ui-icon-info ui-btn-icon-left buttons-radius" href="#page2" data-transition="<?php echo $transitionefect ?>">Kody Lewis, PA-C</a>
+                                       <a class="ui-btn ui-icon-info ui-btn-icon-left buttons-radius" href="#page2" data-transition="<?php echo $transitionefect ?>">Ross Robarts, PA-C</a>
                                            <a class="ui-btn ui-icon-info ui-btn-icon-left buttons-radius" href="#page2" data-transition="<?php echo $transitionefect ?>">Seanra Kalil, PA-C</a>
 
 
@@ -271,7 +271,7 @@
 							<li><a href="#contactform" data-transition="<?php echo $transitionefect ?>">Contact us</a></li>
 						</ul>
 					</section>
-			        <p>This is only a <strong>preview</strong> version of your Mobile Website</p>
+			        <p>This is only a <strong>preview</strong> version of Your Mobile Website</p>
                     <p>Please contact our official Sales representative for <strong>Full Functional Version</strong></p>
 					
 
@@ -300,7 +300,7 @@
                             <li><a href="#contactform" data-transition="<?php echo $transitionefect ?>">Contact us</a></li>
                         </ul>
                     </section>
-                    <p>This is only a <strong>preview</strong> version of your Mobile Website</p>
+                    <p>This is only a <strong>preview</strong> version of Your Mobile Website</p>
                     <p>Please contact our official Sales representative for <strong>Full Functional Version</strong></p>
 
 
