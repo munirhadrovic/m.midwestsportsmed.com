@@ -3,7 +3,9 @@
 	<head>
 		
 		<link rel="stylesheet" href="css/jquery.mobile-1.4.5.css">
-
+        <title>
+            Midwest Sports Medicine | Top Orthopedic Surgeons Chicago &amp; Suburbs
+        </title>
 		<script src="js/jquery-1.11.2.js"></script>
 		<script>
 		    $(document).on("mobileinit", function(evt) {
@@ -99,7 +101,8 @@
 		    <h1><img src="img/logo2.png" alt="LOGO"></h1>
 		</div>
 		<div data-role="footer" data-theme="<?php echo $theme ?>" data-position="fixed">
-		    <h1>Mobile Site<a href="http://www.midwestsportsmed.com" rel="external">  Classic Site</a></h1>
+            <h1>Powered by <a href="http://www.mobilegrows.com" rel="external">MobileGrows</a> | <a href="http://www.midwestsportsmed.com" rel="external">Desktop Site</a></h1>
+
 		</div>
 		<!-- page 1 ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////-->
 		<div data-role="page" id="page1" data-theme="<?php echo $theme ?>">
@@ -195,15 +198,15 @@
 
 							<div data-role="collapsible" data-theme="<?php echo $theme ?>" data-content-theme="<?php echo $theme ?>" data-iconpos="right" data-collapsed-icon="arrow-r" data-expanded-icon="arrow-d">
 							   <h3>Physicians</h3>
-							   <a class="ui-btn ui-icon-info ui-btn-icon-left buttons-radius" href="#page2" data-transition="<?php echo $transitionefect ?>">Dr. Eugen Lopez, MD</a>
-							   <a class="ui-btn ui-icon-info ui-btn-icon-left buttons-radius" href="#page2" data-transition="<?php echo $transitionefect ?>">Dr. Mary Morrell, MD</a>
-							   <a class="ui-btn ui-icon-info ui-btn-icon-left buttons-radius" href="#page2" data-transition="<?php echo $transitionefect ?>">Dr. Bruce Montella, MD</a>
-                                   <a class="ui-btn ui-icon-info ui-btn-icon-left buttons-radius" href="#page2" data-transition="<?php echo $transitionefect ?>">Dr. Sean Odell, MD</a>
-                                   <a class="ui-btn ui-icon-info ui-btn-icon-left buttons-radius" href="#page2" data-transition="<?php echo $transitionefect ?>">Dr. Mary Morrell, MD</a>
-                                       <a class="ui-btn ui-icon-info ui-btn-icon-left buttons-radius" href="#page2" data-transition="<?php echo $transitionefect ?>">Dr. Erwin Friedman, DPM</a>
-                                       <a class="ui-btn ui-icon-info ui-btn-icon-left buttons-radius" href="#page2" data-transition="<?php echo $transitionefect ?>">Kody Lewis, PA-C</a>
-                                       <a class="ui-btn ui-icon-info ui-btn-icon-left buttons-radius" href="#page2" data-transition="<?php echo $transitionefect ?>">Ross Robarts, PA-C</a>
-                                           <a class="ui-btn ui-icon-info ui-btn-icon-left buttons-radius" href="#page2" data-transition="<?php echo $transitionefect ?>">Seanra Kalil, PA-C</a>
+							    <a class="ui-btn ui-icon-info ui-btn-icon-left buttons-radius" href="#page2" data-transition="<?php echo $transitionefect ?>">Dr. Eugen Lopez, MD</a>
+							     <a class="ui-btn ui-icon-info ui-btn-icon-left buttons-radius" href="#page2" data-transition="<?php echo $transitionefect ?>">Dr. Mary Morrell, MD</a>
+							     <a class="ui-btn ui-icon-info ui-btn-icon-left buttons-radius" href="#page2" data-transition="<?php echo $transitionefect ?>">Dr. Bruce Montella, MD</a>
+                                <a class="ui-btn ui-icon-info ui-btn-icon-left buttons-radius" href="#page2" data-transition="<?php echo $transitionefect ?>">Dr. Sean Odell, MD</a>
+                                <a class="ui-btn ui-icon-info ui-btn-icon-left buttons-radius" href="#page2" data-transition="<?php echo $transitionefect ?>">Dr. Mary Morrell, MD</a>
+                                <a class="ui-btn ui-icon-info ui-btn-icon-left buttons-radius" href="#page2" data-transition="<?php echo $transitionefect ?>">Dr. Erwin Friedman, DPM</a>
+                                <a class="ui-btn ui-icon-info ui-btn-icon-left buttons-radius" href="#page2" data-transition="<?php echo $transitionefect ?>">Kody Lewis, PA-C</a>
+                                <a class="ui-btn ui-icon-info ui-btn-icon-left buttons-radius" href="#page2" data-transition="<?php echo $transitionefect ?>">Ross Robarts, PA-C</a>
+                                <a class="ui-btn ui-icon-info ui-btn-icon-left buttons-radius" href="#page2" data-transition="<?php echo $transitionefect ?>">Seanra Kalil, PA-C</a>
 
 
 							</div>
